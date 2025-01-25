@@ -64,22 +64,27 @@ Contributions are always welcome.
 
 To contribute perform the following steps:
 
-1. **Fork** the repository.
-2. Create a new branch such as feature or fix. You can use the following git command:
+1. Via **GitHub** > **weather-app-lab's** main page, create a new **Fork**.
+2. Clone the repository to the desired local machine using the command:
+   ```bash
+   git clone https://github.com/mario-amsg/weather-app-lab.git
+   ```
+3. Create a new branch such as **feature** or **fix**. You can use the following `git clone`:
     ```bash
     git checkout -b feature/feature-name
     ```
-3. Make your changes and commit them using:
+4. Make your changes and commit them using the `commit`:
     ```bash
     git commit -m "Your commit message"
     ```
     > Note: Please provide a clear, short and concise commit message of your change.
 
-4. Push your branch with:
+5. Push your branch with `git push`:
     ```bash
     git push origin feature/feature-name
     ```
-5. Finally open a pull request to the `main` branch.
+6. Finally open a pull request to the `main` branch. 
+7. After submitting your pull request, your request will then be reviewed for approval.
 
 -------------------------
 
