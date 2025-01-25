@@ -78,7 +78,7 @@ To contribute perform the following steps:
     ```bash
     git push origin feature/feature-name
     ```
-5. Finally open a pull request to the main branch.
+5. Finally open a pull request to the `main` branch.
 
 -------------------------
 
