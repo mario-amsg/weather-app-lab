@@ -1,12 +1,10 @@
-feature-branch
-
-Weather App
+# Weather App
 
 Weather Application for Costa Rica using an API that displays temperature and rain probability.
 
 -------------------------
 
-Getting Started
+# Getting Started
 
 Follow these steps to setup the Weather App Project on your local machine:
 
@@ -46,14 +44,14 @@ Follow these steps to setup the Weather App Project on your local machine:
 
 -------------------------
 
-Usage Examples
+# Usage Examples
 
     * Search for a City:
     * Error Handling: If a city is not found or the request fails, the application will display an error message.
 
 -------------------------
 
-Features
+# Features
 
     * Real-time weather data.
     * Displays temperature, chance of rain and weather conditions.
@@ -62,7 +60,7 @@ Features
 
 -------------------------
 
-Contributing
+# Contributing
 
 Contributions are always welcome.
 
@@ -87,6 +85,6 @@ To contribute perform the following steps:
 
 -------------------------
 
-License
+# License
 
 This project is licensed under the MIT License. See the License file for more details.
